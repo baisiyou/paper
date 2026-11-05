@@ -1,0 +1,4 @@
+tertile,n,n_inter_min,n_inter_median,n_inter_max,effect_pct,direct_pct,delta_pp,only_effect,only_direct,mcnemar_p
+low,333,0,1.0,10,84.4,80.2,4.2,18,4,0.004343509674072266
+mid,333,11,41.0,92,84.7,82.9,1.8,25,19,0.4513808323961257
+high,334,93,203.5,1239,81.7,76.0,5.7,33,14,0.007942726509483574

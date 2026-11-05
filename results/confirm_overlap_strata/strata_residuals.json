@@ -1,0 +1,41 @@
+[
+  {
+    "tertile": "low",
+    "n": 333,
+    "n_inter_min": 0,
+    "n_inter_median": 1.0,
+    "n_inter_max": 10,
+    "effect_pct": 84.4,
+    "direct_pct": 80.2,
+    "delta_pp": 4.2,
+    "only_effect": 18,
+    "only_direct": 4,
+    "mcnemar_p": 0.004343509674072266
+  },
+  {
+    "tertile": "mid",
+    "n": 333,
+    "n_inter_min": 11,
+    "n_inter_median": 41.0,
+    "n_inter_max": 92,
+    "effect_pct": 84.7,
+    "direct_pct": 82.9,
+    "delta_pp": 1.8,
+    "only_effect": 25,
+    "only_direct": 19,
+    "mcnemar_p": 0.4513808323961257
+  },
+  {
+    "tertile": "high",
+    "n": 334,
+    "n_inter_min": 93,
+    "n_inter_median": 203.5,
+    "n_inter_max": 1239,
+    "effect_pct": 81.7,
+    "direct_pct": 76.0,
+    "delta_pp": 5.7,
+    "only_effect": 33,
+    "only_direct": 14,
+    "mcnemar_p": 0.007942726509483574
+  }
+]
